@@ -37,3 +37,9 @@ npm run lint
 ### About 
 ![braking-bad (3)](https://user-images.githubusercontent.com/75854041/122085249-325f4a80-ce0b-11eb-8057-2e6c390165f5.png)
 
+# Used in it
+* Vue Js 
+* Vuex 
+* Sass 
+* Api Breaking Bad
+
